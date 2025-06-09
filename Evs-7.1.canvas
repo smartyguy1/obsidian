@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"59361173825f5273","type":"text","text":"Dams","x":-188,"y":-110,"width":250,"height":60},
+		{"id":"056e7c1c1f0c8264","type":"text","text":"Disadvantages","x":62,"y":60,"width":250,"height":60,"color":"1"},
+		{"id":"809f70b820499085","type":"text","text":"Advantages","x":-420,"y":60,"width":250,"height":60,"color":"4"},
+		{"id":"567d5de12c7014b3","type":"text","text":"- It Produces Electricity\n- It allows us to generate Electricity without depending on non-renewable resources.\n- It allows us to regulate river water flow\n- I generates Jobs for people\n- It allows us to flow water into areas hit with drought","x":-447,"y":180,"width":327,"height":300}
+	],
+	"edges":[
+		{"id":"cb05f8be0311a30d","fromNode":"59361173825f5273","fromSide":"bottom","toNode":"809f70b820499085","toSide":"top"},
+		{"id":"13fe6ba141573aeb","fromNode":"59361173825f5273","fromSide":"bottom","toNode":"056e7c1c1f0c8264","toSide":"top"},
+		{"id":"83a9e963f76897f2","fromNode":"809f70b820499085","fromSide":"bottom","toNode":"567d5de12c7014b3","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+![[CPLT/Inline functions|Inline functions]]

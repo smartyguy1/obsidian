@@ -1,0 +1,13 @@
+- Key-value pairs `dict = {key:value}`
+- They use curly braces \{}
+- Can be accessed by using keys `dict[key]`
+- Using the same as above we can add a key value pair `dict[key2] = value2`
+- key-value pairs  can be removed by `del dict[key]`
+- It can store various kinds objects or data-types at the same time.
+- You can use `.get()` method to set a default value if the key passed doesn't exist in the dictionary. `dict.get(key3, 'No value found')`
+- Looping through the dictionary can be done as:
+	- `for k, v in dict.items()` This `.items()` returns the key, value pair and gives it to `k`and `v`.
+	- `for k in dict.keys()` This gives just the keys and the values can be accessed using them. Note that `.keys` generates a [list]([[Lists]])and all the methods of a list are applicable on it.
+	- `dict.values()` Returns a list of values.
+	- `set(dict.values())` returns all unique values. `set()` gives all the  unique elements of a list. A *set* is a collection in which each item must be unique
+	- We can nest a list or another dictionary as a value in a given list. For eg: `dict2 = {'student' : {'name': Anushka, 'ID': '1234'}, 'teacher :{'name': 'Ken' , 'ID' : '2345'}}`

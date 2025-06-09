@@ -1,0 +1,2 @@
+Let us visualize an electron and a photon. Let the electron be at rest and the photon travelling with speed $u$ strikes the electron. Remembering the particle nature of photon observed in [[Compton Effect]], we will notice that the electron starts travelling with a speed $v_{e}$ at an angle $\phi$ with the horizontal and the photon's speed changes to $v$ at an angle of $\theta$ from the horizontal.
+![[physics1.1.excalidraw|600]]
