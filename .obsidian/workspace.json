@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai-ML course Google/Linear Regression/Loss.md",
+                "file": "Python/Iterators and Generators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loss"
+              "title": "Iterators and Generators"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "87316d38b77c54ad",
@@ -182,6 +183,11 @@
   },
   "active": "0f9b7f9c50859af9",
   "lastOpenFiles": [
+    "Python/Classes.md",
+    "Python/Iterators and Generators.md",
+    "Python/Lists.md",
+    "Python/Files and Exceptions.md",
+    "Ai-ML course Google/Linear Regression/Loss.md",
     "Ai-ML course Google/Logistic Regression/Loss and regularization.md",
     "Ai-ML course Google/Logistic Regression/Logistic Regression.md",
     "Pasted image 20250610183319.png",
@@ -200,7 +206,6 @@
     "Pasted image 20250610172028.png",
     "Excalidraw/linear regression-1.2.excalidraw.md",
     "Ai-ML course Google/Linear Regression/Linear Regression.md",
-    "Ai-ML course Google/Linear Regression/Loss.md",
     "done.md",
     "Excalidraw/linear regression1.1.excalidraw.md",
     "Ai-ML course Google/Linear Regression",
@@ -217,11 +222,7 @@
     "Online.md",
     "mean.md",
     "Latex.md",
-    "IITP Capstone project.md",
-    "Exponential Random Variable.md",
-    "EVS-merged.md",
     "Evs-7.1.canvas",
-    "Encapsulation.md",
     "Web",
     "Quantum Computing/Basics Quantum Information",
     "Quantum Computing",

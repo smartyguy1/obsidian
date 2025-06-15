@@ -225,6 +225,8 @@ friend_foods = my_foods[:]
 
 # Tuples
 
+^afb9a0
+
 Tuples look just like [[Lists]] except you use **parentheses** to define them. Although you can't modify a tuple, you can assign a new value to a variable representing a tuple.
 ```python
 dimensions = (200, 50)
