@@ -1,4 +1,4 @@
-In Python, the `raise` statement is used to **manually trigger an exception**. It allows you to interrupt the normal flow of your program and indicate that something went wrong. You can use `raise` with or without specifying a particular exception.
+In Python, the `raise` statement is used to **manually trigger an [[Files and Exceptions|exception]]**. It allows you to interrupt the normal flow of your program and indicate that something went wrong. You can use `raise` with or without specifying a particular exception.
 
 ### Basic Syntax
 

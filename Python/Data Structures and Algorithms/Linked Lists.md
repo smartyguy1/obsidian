@@ -89,4 +89,78 @@ lls1.traverse_print()
 """
 ```
 
+# Doubly linked list
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.prev = None
+        self.next = None
+
+def insert_start(head:Node, new:Node):
+    head.prev = new
+    new.next = head
+
+def insert_end(head:Node, new:Node):
+    temp = head
+    while(temp.next is not None):
+        temp = temp.next
+    temp.next = new
+    new.prev = temp
+
+def reverse_list_order(head:Node):
+    temp = head
+    temp.prev = head.next
+    temp.next = None
+    while(temp.prev is not None):
+        temp = temp.prev
+        temp1 = temp.next
+        temp.next = temp.prev
+        temp.prev = temp1
+
+def forward_travel(head:Node):
+    temp = head
+    while(temp is not None):
+        print(temp.data, end="<-->")
+        temp = temp.next
+    print("None")
+
+def backward_travel(head:Node):
+    temp = head
+    while(temp is not None):
+        print(temp.data, end="<-->")
+        temp = temp.prev
+    print("None")
+
+nodeA = Node(1)
+nodeB = Node(2)
+nodeC = Node(3)
+nodeD = Node(4)
+
+nodeA.next = nodeB
+nodeB.prev = nodeA
+nodeB.next = nodeC
+nodeC.prev = nodeB
+nodeC.next = nodeD
+nodeD.prev = nodeC
+
+forward_travel(nodeA)
+backward_travel(nodeD)
+reverse_list_order(nodeA)
+forward_travel(nodeD)
+insert_end(nodeD, Node(0))
+
+insert_start(nodeD, Node(5))
+forward_travel(nodeD)
+backward_travel(nodeD)
+
+"""
+1<-->2<-->3<-->4<-->None
+4<-->3<-->2<-->1<-->None
+4<-->3<-->2<-->1<-->None
+4<-->3<-->2<-->1<-->0<-->None
+4<-->5<-->None
+"""
+```
 
