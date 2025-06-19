@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data Structures and Algorithms/Trees.md",
+                "file": "CS50/Week 3 (Algorithms)/Search Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trees"
-            }
-          },
-          {
-            "id": "9a5f6a121b5c411e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Trees-1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Trees-1.excalidraw"
+              "title": "Search Algorithms"
             }
           }
         ]
@@ -195,13 +183,23 @@
   },
   "active": "0f9b7f9c50859af9",
   "lastOpenFiles": [
-    "Trees.pdf",
+    "CS50/Week 3 (Algorithms)/Sorting.md",
+    "CS50/Week 3 (Algorithms)/Search Algorithms.md",
+    "CS50/Week 3 (Algorithms)/Running time.md",
+    "Python/Data Structures and Algorithms/Trees/Trees.md",
+    "Python/Data Structures and Algorithms/Trees/Binary Trees.md",
+    "Python/Data Structures and Algorithms/Linked Lists.md",
+    "Attachments/Pasted image 20250616212410.png",
+    "Python/PyPDF2.md",
+    "CS50/Week 5 (Data Structures)/Data Structures.md",
+    "CS50/Week 5 (Data Structures)/Tries.md",
+    "Python/Data Structures and Algorithms/Trees",
+    "Excalidraw/Trees-2.excalidraw.md",
     "Excalidraw/Trees-1.excalidraw.md",
-    "Python/Data Structures and Algorithms/Trees.md",
+    "Trees.pdf",
     "Python/Data Structures and Algorithms/Stacks.md",
     "Python/Data Structures and Algorithms/Common Data Structures.md",
     "Python/Data Structures and Algorithms/Queues.md",
-    "Python/Data Structures and Algorithms/Linked Lists.md",
     "CS50/Week 5 (Data Structures)/Stacks.md",
     "Python/Lists.md",
     "Python/Iterators and Generators.md",
@@ -211,20 +209,13 @@
     "Python/Threading.md",
     "Python/sys.md",
     "Python/Raise keyword.md",
-    "CS50/Week 5 (Data Structures)/Data Structures.md",
     "CS50/Week 5 (Data Structures)/Linked lists.md",
     "CS50/Week 3 (Algorithms)/Data Structures.md",
     "CS50/Week 5 (Data Structures)/Hash Tables.md",
-    "CS50/Week 5 (Data Structures)/Queues.md",
-    "CS50/Week 5 (Data Structures)/Tries.md",
     "Python/Data Structures and Algorithms",
-    "Python/Data Structures and Algorithms.md",
     "Attachments/Pasted image 20250610164725.png",
     "Attachments/Pasted image 20250610170024.png",
     "Attachments/Pasted image 20250610183319.png",
-    "Python/Classes.md",
-    "Ai-ML course Google/Linear Regression/Loss.md",
-    "Ai-ML course Google/Logistic Regression/Loss and regularization.md",
     "Attachments/Pasted image 20250610182701.png",
     "Ai-ML course Google/Logistic Regression",
     "Attachments/Pasted image 20250610182142.png",
@@ -232,15 +223,12 @@
     "Attachments/Pasted image 20250610181130.png",
     "Attachments/Pasted image 20250610173920.png",
     "Attachments/Pasted image 20250610173908.png",
-    "Attachments/Pasted image 20250610173818.png",
     "Ai-ML course Google/Linear Regression",
     "Ai-ML course Google",
     "Evs-7.1.canvas",
     "Web",
     "Quantum Computing/Basics Quantum Information",
     "Quantum Computing",
-    "Python/Selenium",
-    "Python/Natural Language Processing",
-    "Python/Flask"
+    "Python/Selenium"
   ]
 }
