@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ce7151add46acf57",
+        "id": "3da6bfe08882b376",
         "type": "tabs",
         "children": [
           {
-            "id": "4940e3e3f6fde23f",
+            "id": "a08af98251e66201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOULAI/Preference Ranking Fundamentals/Understanding Reward and Feedback/Justifying the Ranking through Feedback.md",
+                "file": "Python/Iterators and Generators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Justifying the Ranking through Feedback"
+              "title": "Iterators and Generators"
             }
           },
           {
-            "id": "6a32cf0b07f77a1b",
+            "id": "8949d2404c1d15dd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CR-1.excalidraw.md"
+                "file": "Excalidraw/ROCAUC.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "CR-1.excalidraw"
+              "title": "ROCAUC.excalidraw"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -192,11 +192,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4940e3e3f6fde23f",
+  "active": "a08af98251e66201",
   "lastOpenFiles": [
-    "Excalidraw/JustifyRanking.excalidraw.md",
+    "Ai-ML course Google/Classification/Multiclass Classification.md",
+    "Ai-ML course Google/Classification/Prediction Bias.md",
+    "Ai-ML course Google/Classification/ROC and AUC.md",
+    "Attachments/Pasted image 20250702103850.png",
+    "Ai-ML course Google/Classification/Accuracy, recall, precision and related metrics.md",
+    "Ai-ML course Google/Classification/Thresholds and the confusion matrix.md",
+    "Attachments/Pasted image 20250702103303.png",
+    "Excalidraw/ROCAUC.excalidraw.md",
+    "Attachments/Pasted image 20250701195256.png",
+    "IITP computer science/Computer Logic/Binary numbers and Binary coding.md",
+    "Excalidraw/Drawing 2025-07-01 19.48.54.excalidraw.md",
+    "Linear Algebra/Factorization into A = LU.md",
+    "CS50/Week 3 (Algorithms)/Running time.md",
     "Excalidraw/CR-1.excalidraw.md",
+    "Ai-ML course Google/Classification/Classification.md",
+    "Ai-ML course Google/Classification",
+    "Ai-ML course Google/Logistic Regression/Loss and regularization.md",
+    "Ai-ML course Google/Logistic Regression/Logistic Regression.md",
+    "Ai-ML course Google/Linear Regression/Loss.md",
+    "Google Cloud Skills Boost/Introduction to Generative AI/Prompt-design using Vertex AI.md",
     "SOULAI/Preference Ranking Fundamentals/Understanding Reward and Feedback/Justifying the Ranking through Feedback.md",
+    "Excalidraw/JustifyRanking.excalidraw.md",
     "SOULAI/Preference Ranking Fundamentals/Understanding Reward and Feedback/Comparative Ranking.md",
     "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Overall Response Quality.md",
     "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions.md",
@@ -207,24 +226,9 @@
     "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Safety.md",
     "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Content Relevance.md",
     "The substance.md",
-    "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Collaborativity.md",
-    "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Writing Style and Tone.md",
-    "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Completeness.md",
-    "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Factual Accuracy.md",
-    "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions/Instruction Following.md",
     "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response/Understanding Rubric Dimensions",
     "SOULAI/Preference Ranking Fundamentals",
-    "Google Cloud Skills Boost/Introduction to Generative AI/intro_prompt_design-v2.0.0.md",
     "SOULAI",
-    "Google Cloud Skills Boost/Introduction to Generative AI/Prompt-design using Vertex AI.md",
-    "Linear Algebra/Pivot Variables, Special Solutions.md",
-    "Linear Algebra/Solving Ax=b; Row Reduced form R.md",
-    "Linear Algebra/Independence, Basis and Dimension.md",
-    "Linear Algebra/Matrix Spaces.md",
-    "Linear Algebra/Transposes, Permutations, Spaces.md",
-    "Linear Algebra/The Four Fundamental Subspaces.md",
-    "Linear Algebra/Geometry of Linear Equations.md",
-    "Python/Files and Exceptions.md",
     "Attachments/Pasted image 20250616212410.png",
     "Python/Data Structures and Algorithms/Trees",
     "Trees.pdf",
@@ -236,10 +240,6 @@
     "Ai-ML course Google/Logistic Regression",
     "Attachments/Pasted image 20250610182142.png",
     "Attachments/Pasted image 20250610181636.png",
-    "Attachments/Pasted image 20250610181130.png",
-    "Attachments/Pasted image 20250610173920.png",
-    "Attachments/Pasted image 20250610173908.png",
-    "Ai-ML course Google/Linear Regression",
     "Evs-7.1.canvas"
   ]
 }

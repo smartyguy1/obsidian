@@ -6,6 +6,8 @@ Many problems require probability estimate as output. Logistic regression is an 
 
 # Sigmoid function
 
+^cb714b
+
 there's a family of functions called logistic functions whose output has those same characteristics. The standard logistic function, also known as the sigmoid function (sigmoid means "s-shaped"), has the formula:
 $$
 f(x) = \frac{1}{1+e^{-x}}
