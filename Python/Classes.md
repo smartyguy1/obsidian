@@ -148,7 +148,7 @@ class ElectricCar(Car):
 ```
 
 # Importing classes
-Same way as [[Functions in python#^1aa8b1|functions]].
+Same way as [[Functions and modules in python#^1aa8b1|functions]].
 
 # Private vs Public vs Protected Attribute:
 [[C++ OOPs|Encapsulation]] is a key principle of object oriented programming , allowing you to restrict access to certain attributes or methods within a class.
