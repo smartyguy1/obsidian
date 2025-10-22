@@ -9,7 +9,7 @@ import pandas as pd
 
 ## 📈 **2. Series**
 
-A **Series** is like a **column** in a spreadsheet or a **1D array** with labels.
+A **Series** is like a **column** in a spreadsheet or a **1D [[Arrays|array]]** with labels.
 
 ### ➤ Creating a Series
 

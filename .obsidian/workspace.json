@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data Science/Pandas.md",
+                "file": "Python/Data Science/Filtering Data/Filtering DataFrame based on one condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas"
+              "title": "Filtering DataFrame based on one condition"
             }
           }
         ],
@@ -220,8 +220,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "56065fa03d1d7b20",
+  "active": "f33ba3e6c41251a9",
   "lastOpenFiles": [
+    "Python/Data Science/Pandas.md",
+    "Python/Data Science/Filtering Data/Filtering DataFrame based on one condition.md",
+    "Python/Data Science/Untitled.md",
+    "Python/Data Science/Filtering Data",
     "Python/Data Science/Pandas/Dataframe.md",
     "IITP mathematics/Conditional Probability/Bayes’ Theorem.md",
     "Physics/Quantum Physics/The Wave Function.md",
@@ -232,7 +236,6 @@
     "Physics/Quantum Physics/Derivation of Compton Effect equation.md",
     "Physics/Quantum Physics/Compton Effect.md",
     "C++/Static Data Members.md",
-    "Python/Data Science/Pandas.md",
     "Software Engineering Introduction.md",
     "Python/Data Science/Pandas/Series.md",
     "Python/Data Science/Pandas",
@@ -248,8 +251,6 @@
     "Python/Selenium/FreeCodeCamp Project.md",
     "CS50/Week 5 (Data Structures)/Stacks.md",
     "CS50/Week 5 (Data Structures)/Data Structures.md",
-    "C++/OOPs.md",
-    "Binary Trees.md",
     "Trees.pdf",
     "IMG_20240729_115846930~2.jpg",
     "Evs-7.1.canvas",
@@ -266,7 +267,6 @@
     "Attachments/Pasted image 20250701195256.png",
     "Ai-ML course Google/Classification",
     "SOULAI/Preference Ranking Fundamentals/Understanding Reward and Feedback",
-    "SOULAI/Preference Ranking Fundamentals/Evaluating AI Response",
     "Attachments/Pasted image 20250616212410.png",
     "Attachments/Pasted image 20250610164725.png"
   ]
